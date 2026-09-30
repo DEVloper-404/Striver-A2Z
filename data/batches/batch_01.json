@@ -1,0 +1,112 @@
+[
+ {
+  "id": "425",
+  "name": "Input Output",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/c/c-basic-input-output/"
+ },
+ {
+  "id": "1211",
+  "name": "Cpp Basics",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/what-are-arrays-strings"
+ },
+ {
+  "id": "424",
+  "name": "If ElseIf",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/if-else/if-else-statements/"
+ },
+ {
+  "id": "429",
+  "name": "Switch Case",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/switch-case/switch-case-statements/"
+ },
+ {
+  "id": "2869",
+  "name": "What are arrays, strings?",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/what-are-arrays-strings"
+ },
+ {
+  "id": "2867",
+  "name": "For loops",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/for-loop/understanding-for-loop/"
+ },
+ {
+  "id": "2868",
+  "name": "While loops",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/while-loop/while-loops-in-programming/"
+ },
+ {
+  "id": "2866",
+  "name": "Functions (Pass by Reference and Value)",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/functions-pass-by-reference-and-value"
+ },
+ {
+  "id": "1219",
+  "name": "Theory with examples",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Things to Know in C++/Java/Python or any language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/"
+ },
+ {
+  "id": "1216",
+  "name": "Easy and Medium",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Build-up Logical Thinking",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/"
+ },
+ {
+  "id": "1205",
+  "name": "Hard",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Build-up Logical Thinking",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/"
+ }
+]

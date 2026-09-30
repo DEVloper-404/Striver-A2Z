@@ -1,0 +1,162 @@
+[
+ {
+  "id": "496",
+  "name": "Articulation point in graph",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Other Algorithms",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/articulation-point-in-graph-g-56/"
+ },
+ {
+  "id": "498",
+  "name": "Kosaraju's algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Other Algorithms",
+  "leetcode": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/"
+ },
+ {
+  "id": "1195",
+  "name": "Introduction to DP",
+  "difficulty": "Easy",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "Introduction to DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-introduction/"
+ },
+ {
+  "id": "287",
+  "name": "Climbing stairs",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": "https://leetcode.com/problems/climbing-stairs/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-climbing-stairs/"
+ },
+ {
+  "id": "288",
+  "name": "Frog Jump",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/"
+ },
+ {
+  "id": "289",
+  "name": "Frog jump with K distances",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/"
+ },
+ {
+  "id": "291",
+  "name": "Maximum sum of non adjacent elements",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": "https://leetcode.com/problems/house-robber/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5/"
+ },
+ {
+  "id": "290",
+  "name": "House robber",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": "https://leetcode.com/problems/house-robber-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-house-robber-dp-6/"
+ },
+ {
+  "id": "292",
+  "name": "Ninja's training",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/"
+ },
+ {
+  "id": "2795",
+  "name": "Grid Unique Paths : DP on Grids (DP8)",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/unique-paths/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/grid-unique-paths-dp-on-grids-dp8/"
+ },
+ {
+  "id": "300",
+  "name": "Unique paths II",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/unique-paths-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/"
+ },
+ {
+  "id": "298",
+  "name": "Minimum Falling Path Sum",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/minimum-path-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/"
+ },
+ {
+  "id": "299",
+  "name": "Triangle",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/triangle/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-path-sum-in-triangular-grid-dp-11/"
+ },
+ {
+  "id": "769",
+  "name": "Ninja and his Friends",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/3-d-dp-ninja-and-his-friends-dp-13/"
+ },
+ {
+  "id": "2804",
+  "name": "Subset sum equal to target (DP- 14)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/"
+ },
+ {
+  "id": "321",
+  "name": "Partition equal subset sum",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/partition-equal-subset-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/"
+ }
+]

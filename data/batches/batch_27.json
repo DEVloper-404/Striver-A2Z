@@ -1,0 +1,172 @@
+[
+ {
+  "id": "636",
+  "name": "Longest Increasing Subsequence",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on LIS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/"
+ },
+ {
+  "id": "851",
+  "name": "Print Longest Increasing Subsequence",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on LIS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/"
+ },
+ {
+  "id": "2851",
+  "name": "Longest Increasing Subsequence |(DP-43)",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on LIS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/"
+ },
+ {
+  "id": "603",
+  "name": "Largest Divisible Subset",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on LIS",
+  "leetcode": "https://leetcode.com/problems/largest-divisible-subset/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-divisible-subset-dp-44/"
+ },
+ {
+  "id": "640",
+  "name": "Longest String Chain",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on LIS",
+  "leetcode": "https://leetcode.com/problems/longest-string-chain/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-string-chain-dp-45/"
+ },
+ {
+  "id": "633",
+  "name": "Longest Bitonic Subsequence",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on LIS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-bitonic-subsequence-dp-46/"
+ },
+ {
+  "id": "780",
+  "name": "Number of Longest Increasing Subsequences",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on LIS",
+  "leetcode": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-longest-increasing-subsequences-dp-47/"
+ },
+ {
+  "id": "327",
+  "name": "Matrix chain multiplication",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/"
+ },
+ {
+  "id": "2806",
+  "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/matrix-chain-multiplication-tabulation-method-dp-49/"
+ },
+ {
+  "id": "328",
+  "name": "Minimum cost to cut the stick",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-cost-to-cut-the-stick-dp-50/"
+ },
+ {
+  "id": "326",
+  "name": "Burst balloons",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/burst-balloons/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/burst-balloons-partition-dp-dp-51/"
+ },
+ {
+  "id": "276",
+  "name": "Different Ways to Evaluate a Boolean Expression",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/evaluate-boolean-expression-to-true-partition-dp-dp-52/"
+ },
+ {
+  "id": "329",
+  "name": "Palindrome partitioning II",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/palindrome-partitioning-ii-front-partition-dp-53/"
+ },
+ {
+  "id": "810",
+  "name": "Partition Array for Maximum Sum",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/partition-array-for-maximum-sum-front-partition-dp-54/"
+ },
+ {
+  "id": "2860",
+  "name": "Maximum Rectangle Area with all 1's|(DP-55)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Squares",
+  "leetcode": "https://leetcode.com/problems/maximal-rectangle/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-rectangle-area-with-all-1s-dp-on-rectangles-dp-55/"
+ },
+ {
+  "id": "2395",
+  "name": "Count Square Submatrices with All Ones|(DP-56)",
+  "difficulty": "Easy",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Squares",
+  "leetcode": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-square-submatrices-with-all-1s-dp-on-rectangles-dp-56/"
+ },
+ {
+  "id": "1028",
+  "name": "Trie Implementation and Operations",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Theory",
+  "leetcode": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-trie-1/"
+ }
+]

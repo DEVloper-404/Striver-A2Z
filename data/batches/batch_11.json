@@ -1,0 +1,212 @@
+[
+ {
+  "id": "2842",
+  "name": "Reverse LL in group of given size K",
+  "difficulty": "Hard",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Hard Problems of LL",
+  "leetcode": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/"
+ },
+ {
+  "id": "2843",
+  "name": "Rotate a LL",
+  "difficulty": "Hard",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Hard Problems of LL",
+  "leetcode": "https://leetcode.com/problems/rotate-list/description/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rotate-a-linked-list/"
+ },
+ {
+  "id": "2841",
+  "name": "Flattening of LL",
+  "difficulty": "Hard",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Hard Problems of LL",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/flattening-a-linked-list/"
+ },
+ {
+  "id": "611",
+  "name": "Clone a LL with random and next pointer",
+  "difficulty": "Hard",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Hard Problems of LL",
+  "leetcode": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/"
+ },
+ {
+  "id": "2862",
+  "name": "Recursive Implementation of atoi()",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Get a Strong Hold",
+  "leetcode": "https://leetcode.com/problems/string-to-integer-atoi/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/recursive-implementation-of-atoi"
+ },
+ {
+  "id": "2855",
+  "name": "Pow(x, n)",
+  "difficulty": "Easy",
+  "step": "Recursion [PatternWise]",
+  "substep": "Get a Strong Hold",
+  "leetcode": "https://leetcode.com/problems/powx-n/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/"
+ },
+ {
+  "id": "222",
+  "name": "Count Good Numbers",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Get a Strong Hold",
+  "leetcode": "https://leetcode.com/problems/count-good-numbers/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-good-numbers"
+ },
+ {
+  "id": "2858",
+  "name": "Sort a stack using recursion",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Get a Strong Hold",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sort-a-stack"
+ },
+ {
+  "id": "901",
+  "name": "Reverse a Stack",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Get a Strong Hold",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-a-stack-using-recursion"
+ },
+ {
+  "id": "493",
+  "name": "Generate Binary Strings Without Consecutive 1s",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/generate-all-binary-strings"
+ },
+ {
+  "id": "876",
+  "name": "Generate Parentheses",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/generate-parentheses/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/generate-parenthesis"
+ },
+ {
+  "id": "878",
+  "name": "Power Set",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/"
+ },
+ {
+  "id": "2400",
+  "name": "Learn All Patterns of Subsequences (Theory)",
+  "difficulty": "Easy",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/learn-all-patterns-of-subsequences-theory"
+ },
+ {
+  "id": "880",
+  "name": "Count all subsequences with sum K",
+  "difficulty": "Easy",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-all-subsequences-with-sum-k"
+ },
+ {
+  "id": "879",
+  "name": "Check if there exists a subsequence with sum K",
+  "difficulty": "Easy",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-there-exists-a-subsequence-with-sum-k"
+ },
+ {
+  "id": "864",
+  "name": "Combination Sum",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/combination-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/combination-sum-1/"
+ },
+ {
+  "id": "865",
+  "name": "Combination Sum II",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/combination-sum-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/"
+ },
+ {
+  "id": "867",
+  "name": "Subsets I",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/"
+ },
+ {
+  "id": "868",
+  "name": "Subsets II",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/subsets-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/"
+ },
+ {
+  "id": "866",
+  "name": "Combination Sum III",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/combination-sum-iii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/combination-sum-iii"
+ },
+ {
+  "id": "875",
+  "name": "Letter Combinations of a Phone Number",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/letter-combinations-of-a-phone-number"
+ }
+]

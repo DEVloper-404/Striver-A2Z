@@ -1,0 +1,112 @@
+[
+ {
+  "id": "549",
+  "name": "N meetings in one room",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/n-meetings-in-one-room/"
+ },
+ {
+  "id": "542",
+  "name": "Jump Game - I",
+  "difficulty": "Easy",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": "https://leetcode.com/problems/jump-game/",
+  "practice": null,
+  "article": "https://takeuforward.org/Greedy/jump-game-i"
+ },
+ {
+  "id": "595",
+  "name": "Jump Game II",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": "https://leetcode.com/problems/jump-game-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/jump-game-2"
+ },
+ {
+  "id": "548",
+  "name": "Minimum number of platforms required for a railway",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/"
+ },
+ {
+  "id": "547",
+  "name": "Job sequencing Problem",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/job-sequencing-problem/"
+ },
+ {
+  "id": "544",
+  "name": "Candy",
+  "difficulty": "Hard",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": "https://leetcode.com/problems/candy/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/candy"
+ },
+ {
+  "id": "551",
+  "name": "Shortest Job First",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/Greedy/shortest-job-first-or-sjf-cpu-scheduling"
+ },
+ {
+  "id": "2859",
+  "name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/program-for-least-recently-used-lru-page-replacement-algorithm"
+ },
+ {
+  "id": "546",
+  "name": "Insert Interval",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": "https://leetcode.com/problems/insert-interval/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/insert-new-interval"
+ },
+ {
+  "id": "712",
+  "name": "Merge Intervals",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": "https://leetcode.com/problems/merge-intervals/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/"
+ },
+ {
+  "id": "550",
+  "name": "Non-overlapping Intervals",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Medium/Hard",
+  "leetcode": "https://leetcode.com/problems/non-overlapping-intervals/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/non-overlapping-intervals"
+ }
+]

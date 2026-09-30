@@ -1,0 +1,212 @@
+[
+ {
+  "id": "871",
+  "name": "Palindrome partitioning",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "874",
+  "name": "Word Search",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": "https://leetcode.com/problems/word-search/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/word-search-leetcode/"
+ },
+ {
+  "id": "870",
+  "name": "N Queen",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": "https://leetcode.com/problems/n-queens/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
+ },
+ {
+  "id": "872",
+  "name": "Rat in a Maze",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rat-in-a-maze/"
+ },
+ {
+  "id": "4",
+  "name": "Word Break",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "869",
+  "name": "M Coloring Problem",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/m-coloring-problem/"
+ },
+ {
+  "id": "873",
+  "name": "Sudoku Solver",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": "https://leetcode.com/problems/sudoku-solver/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sudoku-solver/"
+ },
+ {
+  "id": "3",
+  "name": "Expression Add Operators",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Trying out all Combos / Hard",
+  "leetcode": "https://leetcode.com/problems/expression-add-operators/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/expression-add-operators"
+ },
+ {
+  "id": "1155",
+  "name": "Introduction to Bits and Tricks",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/introduction-to-bit-manipulation-theory"
+ },
+ {
+  "id": "177",
+  "name": "Check if the i-th bit is Set or Not",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-the-i-th-bit-is-set-or-not"
+ },
+ {
+  "id": "171",
+  "name": "Check if a Number is Odd or Not",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-a-number-is-odd-or-not"
+ },
+ {
+  "id": "172",
+  "name": "Check if a Number is Power of 2 or Not",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": "https://leetcode.com/problems/power-of-two/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-a-number-is-power-of-2-or-not"
+ },
+ {
+  "id": "243",
+  "name": "Count the Number of Set Bits",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-the-number-of-set-bits"
+ },
+ {
+  "id": "2410",
+  "name": "Set/Unset the rightmost unset bit",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/set-the-rightmost-bit"
+ },
+ {
+  "id": "1005",
+  "name": "Swap Two Numbers",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/swap-two-numbers"
+ },
+ {
+  "id": "140",
+  "name": "Divide two numbers without multiplication and division",
+  "difficulty": "Medium",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Learn Bit Manipulation",
+  "leetcode": "https://leetcode.com/problems/divide-two-integers/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/divide-two-integers-without-using-multiplication-division-and-mod-operator"
+ },
+ {
+  "id": "141",
+  "name": "Minimum Bit Flips to Convert Number",
+  "difficulty": "Medium",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Interview Problems",
+  "leetcode": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-number-of-bits-to-be-flipped-to-convert-a-to-b"
+ },
+ {
+  "id": "143",
+  "name": "Single Number - I",
+  "difficulty": "Medium",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Interview Problems",
+  "leetcode": "https://leetcode.com/problems/single-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/find-the-number-that-appears-once-and-the-other-numbers-twice/"
+ },
+ {
+  "id": "142",
+  "name": "Power Set Bit Manipulation",
+  "difficulty": "Medium",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Interview Problems",
+  "leetcode": "https://leetcode.com/problems/subsets/",
+  "practice": null,
+  "article": "https://takeuforward.org/bit-manipulation/power-set-bit-manipulation"
+ },
+ {
+  "id": "146",
+  "name": "XOR of numbers in a given range",
+  "difficulty": "Medium",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Interview Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-xor-of-numbers-from-l-to-r"
+ },
+ {
+  "id": "145",
+  "name": "Single Number - III",
+  "difficulty": "Medium",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Interview Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-the-two-numbers-appearing-odd-number-of-times"
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "id": "535",
+  "name": "Number of provinces",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-provinces/"
+ },
+ {
+  "id": "2830",
+  "name": "Connected Components Problem in Matrix",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/connected-components"
+ },
+ {
+  "id": "536",
+  "name": "Rotten Oranges",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/rotting-oranges/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/"
+ },
+ {
+  "id": "531",
+  "name": "Flood fill algorithm",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/flood-fill/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "2817",
+  "name": "Cycle Detection in Undirected Graph (bfs)",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/"
+ },
+ {
+  "id": "501",
+  "name": "Detect a cycle in an undirected graph",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/course-schedule/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/"
+ },
+ {
+  "id": "530",
+  "name": "Distance of nearest cell having one",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/01-matrix/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/distance-of-nearest-cell-having-1/"
+ },
+ {
+  "id": "537",
+  "name": "Surrounded Regions",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/surrounded-regions/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/"
+ },
+ {
+  "id": "533",
+  "name": "Number of enclaves",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/number-of-enclaves/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/number-of-enclaves/"
+ },
+ {
+  "id": "509",
+  "name": "Word ladder I",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/word-ladder/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/word-ladder-i-g-29/"
+ },
+ {
+  "id": "510",
+  "name": "Word ladder II",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/word-ladder-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/g-30-word-ladder-ii/"
+ },
+ {
+  "id": "534",
+  "name": "Number of islands",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/number-of-islands/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-distinct-islands/"
+ },
+ {
+  "id": "2813",
+  "name": "Bipartite Graph (DFS)",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/is-graph-bipartite/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/bipartite-graph-dfs-implementation/"
+ },
+ {
+  "id": "2814",
+  "name": "Cycle Detection in Directed Graph (DFS)",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/"
+ },
+ {
+  "id": "2822",
+  "name": "Topo Sort",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Topo Sort and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/"
+ },
+ {
+  "id": "502",
+  "name": "Topological sort or Kahn's algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Topo Sort and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/"
+ },
+ {
+  "id": "500",
+  "name": "Detect a cycle in a directed graph",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Topo Sort and Problems",
+  "leetcode": "https://leetcode.com/problems/course-schedule/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/detect-a-cycle-in-directed-graph-topological-sort-kahns-algorithm-g-23/"
+ },
+ {
+  "id": "504",
+  "name": "Course Schedule I",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Topo Sort and Problems",
+  "leetcode": "https://leetcode.com/problems/course-schedule/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/"
+ },
+ {
+  "id": "505",
+  "name": "Course Schedule II",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Topo Sort and Problems",
+  "leetcode": "https://leetcode.com/problems/course-schedule-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/"
+ },
+ {
+  "id": "506",
+  "name": "Find eventual safe states",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Topo Sort and Problems",
+  "leetcode": "https://leetcode.com/problems/find-eventual-safe-states/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-eventual-safe-states-bfs-topological-sort-g-25/"
+ },
+ {
+  "id": "503",
+  "name": "Alien Dictionary",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Topo Sort and Problems",
+  "leetcode": "https://leetcode.com/problems/alien-dictionary/solution/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/alien-dictionary-topological-sort-g-26/"
+ }
+]

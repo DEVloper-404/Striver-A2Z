@@ -1,0 +1,162 @@
+[
+ {
+  "id": "308",
+  "name": "Longest common subsequence",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/"
+ },
+ {
+  "id": "2799",
+  "name": "Print Longest Common Subsequence | (DP - 26)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/"
+ },
+ {
+  "id": "309",
+  "name": "Longest common substring",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-common-substring-dp-27/"
+ },
+ {
+  "id": "310",
+  "name": "Longest palindromic subsequence",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28/"
+ },
+ {
+  "id": "2800",
+  "name": "Minimum insertions to make string palindrome | DP-29",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/"
+ },
+ {
+  "id": "311",
+  "name": "Minimum insertions or deletions to convert string A to B",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-insertions-deletions-to-convert-string-dp-30/"
+ },
+ {
+  "id": "313",
+  "name": "Shortest common supersequence",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/shortest-common-supersequence/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/"
+ },
+ {
+  "id": "306",
+  "name": "Distinct subsequences",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/distinct-subsequences/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/distinct-subsequences-dp-32/"
+ },
+ {
+  "id": "307",
+  "name": "Edit distance",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/edit-distance/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/edit-distance-dp-33/"
+ },
+ {
+  "id": "314",
+  "name": "Wildcard matching",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/wildcard-matching/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/wildcard-matching-dp-34/"
+ },
+ {
+  "id": "301",
+  "name": "Best time to buy and sell stock",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Stocks",
+  "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/stock-buy-and-sell/"
+ },
+ {
+  "id": "302",
+  "name": "Best time to buy and sell stock II",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Stocks",
+  "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/buy-and-sell-stock-ii-dp-36/"
+ },
+ {
+  "id": "303",
+  "name": "Best time to buy and sell stock III",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Stocks",
+  "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/buy-and-sell-stock-iii-dp-37/"
+ },
+ {
+  "id": "304",
+  "name": "Best time to buy and sell stock IV",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Stocks",
+  "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/buy-and-sell-stock-iv-dp-38/"
+ },
+ {
+  "id": "56",
+  "name": "Best Time to Buy and Sell Stock with Cooldown",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Stocks",
+  "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/buy-and-sell-stocks-with-cooldown-dp-39/"
+ },
+ {
+  "id": "305",
+  "name": "Best time to buy and sell stock with transaction fees",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Stocks",
+  "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/buy-and-sell-stocks-with-transaction-fees-dp-40/"
+ }
+]

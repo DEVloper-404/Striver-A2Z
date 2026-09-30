@@ -1,0 +1,162 @@
+[
+ {
+  "id": "320",
+  "name": "Partition a set into two subsets with minimum absolute sum difference",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/partition-set-into-2-subsets-with-min-absolute-sum-diff-dp-16/"
+ },
+ {
+  "id": "318",
+  "name": "Count subsets with sum K",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-subsets-with-sum-k-dp-17/"
+ },
+ {
+  "id": "317",
+  "name": "Count partitions with given difference",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/"
+ },
+ {
+  "id": "541",
+  "name": "Assign Cookies",
+  "difficulty": "Easy",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/assign-cookies/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/assign-cookies"
+ },
+ {
+  "id": "2802",
+  "name": "Minimum Coins (DP - 20)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/coin-change/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-coins-dp-20/"
+ },
+ {
+  "id": "324",
+  "name": "Target sum",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/target-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/target-sum-dp-21/"
+ },
+ {
+  "id": "2801",
+  "name": "Coin Change 2 (DP - 22)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/coin-change-2/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/coin-change-2-dp-22/"
+ },
+ {
+  "id": "325",
+  "name": "Unbounded knapsack",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/unbounded-knapsack-dp-23/"
+ },
+ {
+  "id": "2803",
+  "name": "Rod Cutting Problem | (DP - 24)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/"
+ },
+ {
+  "id": "308",
+  "name": "Longest common subsequence",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/"
+ },
+ {
+  "id": "2799",
+  "name": "Print Longest Common Subsequence | (DP - 26)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/"
+ },
+ {
+  "id": "309",
+  "name": "Longest common substring",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-common-substring-dp-27/"
+ },
+ {
+  "id": "310",
+  "name": "Longest palindromic subsequence",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28/"
+ },
+ {
+  "id": "2800",
+  "name": "Minimum insertions to make string palindrome | DP-29",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/"
+ },
+ {
+  "id": "311",
+  "name": "Minimum insertions or deletions to convert string A to B",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-insertions-deletions-to-convert-string-dp-30/"
+ },
+ {
+  "id": "313",
+  "name": "Shortest common supersequence",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Strings",
+  "leetcode": "https://leetcode.com/problems/shortest-common-supersequence/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/"
+ }
+]

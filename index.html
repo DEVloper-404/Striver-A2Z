@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Striver's A2Z DSA Sheet — Local Clone</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div id="app">
+  <!-- Left rail -->
+  <nav class="rail">
+    <div class="rail-logo" title="A2Z DSA Sheet">A2Z</div>
+    <a class="rail-item active" href="#" data-view="sheet">
+      <svg viewBox="0 0 24 24"><path d="M4 4h16v16H4z M8 9h8 M8 13h8 M8 17h5"/></svg>
+      <span>Sheet</span>
+    </a>
+    <a class="rail-item" href="#" data-view="stats">
+      <svg viewBox="0 0 24 24"><path d="M4 20V10 M10 20V4 M16 20v-7 M22 20H2"/></svg>
+      <span>Stats</span>
+    </a>
+    <div class="rail-spacer"></div>
+    <button class="rail-item" id="themeToggle" title="Toggle theme">
+      <svg viewBox="0 0 24 24"><path d="M12 3a9 9 0 1 0 9 9c0-.5 0-1-.1-1.4A7 7 0 0 1 12 3z"/></svg>
+      <span>Theme</span>
+    </button>
+  </nav>
+
+  <!-- Main column -->
+  <main class="main">
+    <header class="page-head">
+      <div class="page-head-left">
+        <h1 id="sheetTitle">Striver's A2Z Sheet - Learn DSA from A to Z</h1>
+        <p class="desc" id="sheetDesc"></p>
+        <a class="know-more" href="#" id="knowMore">Know more</a>
+      </div>
+      <div class="page-head-right">
+        <button class="icon-btn" id="menuBtn" title="More">⋮</button>
+        <span class="chip" id="lastUpdated"></span>
+      </div>
+      <div class="menu" id="menu" hidden>
+        <button data-act="export">Export progress (JSON)</button>
+        <button data-act="import">Import progress</button>
+        <button data-act="expandAll">Expand all steps</button>
+        <button data-act="collapseAll">Collapse all steps</button>
+        <button data-act="reset" class="danger">Reset all progress</button>
+        <input type="file" id="importFile" accept="application/json" hidden>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <div class="tabs">
+        <button class="tab active" data-tab="all">All Problems</button>
+        <button class="tab" data-tab="revision">Revision</button>
+      </div>
+      <div class="toolbar-right">
+        <div class="search">
+          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+          <input id="search" type="search" placeholder="Search problems…" autocomplete="off">
+        </div>
+        <select id="statusFilter" class="select">
+          <option value="all">All problems</option>
+          <option value="solved">Solved</option>
+          <option value="unsolved">Unsolved</option>
+        </select>
+        <select id="diffFilter" class="select">
+          <option value="all">Difficulty</option>
+          <option value="Easy">Easy</option>
+          <option value="Medium">Medium</option>
+          <option value="Hard">Hard</option>
+        </select>
+        <button class="btn" id="randomBtn">
+          <svg viewBox="0 0 24 24"><path d="M16 3h5v5 M4 20 21 3 M21 16v5h-5 M15 15l6 6 M4 4l5 5"/></svg>
+          Random Problem
+        </button>
+      </div>
+    </section>
+
+    <section class="overall">
+      <div class="ring" id="ring"><span id="ringPct">0%</span></div>
+      <div class="overall-text">
+        <div class="overall-label">Overall Progress</div>
+        <div class="overall-count"><b id="solvedCount">0</b> / <span id="totalCount">0</span></div>
+      </div>
+      <div class="diff-stats">
+        <span class="dot easy"></span> Easy <b id="easyDone">0</b>/<span id="easyTot">0</span>
+        <span class="dot medium"></span> Medium <b id="medDone">0</b>/<span id="medTot">0</span>
+        <span class="dot hard"></span> Hard <b id="hardDone">0</b>/<span id="hardTot">0</span>
+      </div>
+    </section>
+
+    <section id="steps" class="steps"></section>
+    <p class="empty" id="emptyMsg" hidden>No problems match the current filters.</p>
+
+    <section id="statsView" class="stats-view" hidden></section>
+
+    <footer class="foot">
+      Local clone for personal study. Problem list and links mirror the public A2Z sheet; solution write-ups are original.
+    </footer>
+  </main>
+
+  <!-- Right panel -->
+  <aside class="side">
+    <div class="side-card side-progress">
+      <div class="side-title">Progress</div>
+      <div id="sideSteps"></div>
+    </div>
+    <div class="side-card quote">
+      <div class="quote-mark">“</div>
+      <div class="quote-text" id="quoteText"></div>
+      <div class="quote-by">— A2Z clone</div>
+    </div>
+    <div class="side-card">
+      <div class="side-title">Streak</div>
+      <div class="streak" id="streak">0 days</div>
+      <div class="muted small">Solve at least one problem a day to keep it going.</div>
+    </div>
+    <div class="side-card">
+      <div class="side-title">Keyboard</div>
+      <div class="muted small"><kbd>/</kbd> search · <kbd>r</kbd> random · <kbd>Esc</kbd> close</div>
+    </div>
+  </aside>
+</div>
+
+<!-- Solution modal -->
+<div class="modal" id="solModal" hidden>
+  <div class="modal-box">
+    <div class="modal-head">
+      <div>
+        <div class="modal-kicker" id="solKicker"></div>
+        <h2 id="solTitle"></h2>
+      </div>
+      <div class="modal-actions">
+        <button class="btn small" id="solPrev" title="Previous problem">‹ Prev</button>
+        <button class="btn small" id="solNext" title="Next problem">Next ›</button>
+        <button class="icon-btn" id="solClose" title="Close">✕</button>
+      </div>
+    </div>
+    <div class="modal-tabs" id="solTabs">
+      <button class="active" data-lang="all">All</button>
+      <button data-lang="cpp">C++</button>
+      <button data-lang="java">Java</button>
+      <button data-lang="python">Python</button>
+    </div>
+    <div class="modal-body md" id="solBody"></div>
+    <div class="modal-foot">
+      <label class="check"><input type="checkbox" id="solSolved"> Mark as solved</label>
+      <label class="check"><input type="checkbox" id="solRev"> Mark for revision</label>
+      <div class="modal-links" id="solLinks"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Note modal -->
+<div class="modal" id="noteModal" hidden>
+  <div class="modal-box note-box">
+    <div class="modal-head">
+      <h2 id="noteTitle">Note</h2>
+      <button class="icon-btn" id="noteClose">✕</button>
+    </div>
+    <textarea id="noteText" placeholder="Write your note, approach, or a reminder…"></textarea>
+    <div class="modal-foot">
+      <button class="btn ghost" id="noteDelete">Delete</button>
+      <button class="btn primary" id="noteSave">Save</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+
+<script src="data/sheet.js"></script>
+<script src="data/solutions.js" onerror="window.SOLUTIONS=window.SOLUTIONS||{}"></script>
+<script src="assets/markdown.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

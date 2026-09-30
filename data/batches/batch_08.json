@@ -1,0 +1,192 @@
+[
+ {
+  "id": "92",
+  "name": "Find square root of a number",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/binary-search/finding-sqrt-of-a-number-using-binary-search/"
+ },
+ {
+  "id": "91",
+  "name": "Find Nth root of a number",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/"
+ },
+ {
+  "id": "94",
+  "name": "Koko eating bananas",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/koko-eating-bananas/",
+  "practice": null,
+  "article": "https://takeuforward.org/binary-search/koko-eating-bananas/"
+ },
+ {
+  "id": "95",
+  "name": "Minimum days to make M bouquets",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/minimum-days-to-make-m-bouquets/"
+ },
+ {
+  "id": "93",
+  "name": "Find the smallest divisor",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/find-the-smallest-divisor-given-a-threshold/"
+ },
+ {
+  "id": "161",
+  "name": "Capacity to Ship Packages Within D Days",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/capacity-to-ship-packages-within-d-days/"
+ },
+ {
+  "id": "600",
+  "name": "Kth Missing Positive Number",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/kth-missing-positive-number/"
+ },
+ {
+  "id": "73",
+  "name": "Aggressive Cows",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/"
+ },
+ {
+  "id": "74",
+  "name": "Book Allocation Problem",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/"
+ },
+ {
+  "id": "79",
+  "name": "Split array - largest sum",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/split-array-largest-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/split-array-largest-sum/"
+ },
+ {
+  "id": "805",
+  "name": "Painter's Partition",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/painters-partition-problem/"
+ },
+ {
+  "id": "78",
+  "name": "Minimize Max Distance to Gas Station",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/minimise-maximum-distance-between-gas-stations/"
+ },
+ {
+  "id": "77",
+  "name": "Median of 2 sorted arrays",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "2767",
+  "name": "Kth element of 2 sorted arrays",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on Answers",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/"
+ },
+ {
+  "id": "66",
+  "name": "Find row with maximum 1's",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 2D Arrays",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/find-the-row-with-maximum-number-of-1s/"
+ },
+ {
+  "id": "69",
+  "name": "Search in a 2D matrix",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 2D Arrays",
+  "leetcode": "https://leetcode.com/problems/search-a-2d-matrix/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/"
+ },
+ {
+  "id": "68",
+  "name": "Search in 2D matrix - II",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 2D Arrays",
+  "leetcode": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/search-in-a-row-and-column-wise-sorted-matrix/"
+ },
+ {
+  "id": "65",
+  "name": "Find Peak Element - II",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 2D Arrays",
+  "leetcode": "https://leetcode.com/problems/find-a-peak-element-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-peak-element-2d-matrix"
+ },
+ {
+  "id": "67",
+  "name": "Matrix Median",
+  "difficulty": "Hard",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 2D Arrays",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/median-of-row-wise-sorted-matrix/"
+ }
+]

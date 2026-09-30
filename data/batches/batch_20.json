@@ -1,0 +1,172 @@
+[
+ {
+  "id": "122",
+  "name": "Print root to leaf path in BT",
+  "difficulty": "Medium",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/"
+ },
+ {
+  "id": "118",
+  "name": "LCA in BT",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/"
+ },
+ {
+  "id": "119",
+  "name": "Maximum Width of BT",
+  "difficulty": "Medium",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/"
+ },
+ {
+  "id": "185",
+  "name": "Children Sum Property in Binary Tree",
+  "difficulty": "Medium",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/"
+ },
+ {
+  "id": "121",
+  "name": "Print all nodes at a distance of K in BT",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-all-the-nodes-at-a-distance-of-k-in-a-binary-tree"
+ },
+ {
+  "id": "120",
+  "name": "Minimum time taken to burn the BT from a given Node",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-time-taken-to-burn-the-binary-tree-from-a-node"
+ },
+ {
+  "id": "117",
+  "name": "Count total nodes in a complete BT",
+  "difficulty": "Easy",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/count-complete-tree-nodes/",
+  "practice": null,
+  "article": "https://takeuforward.org/binary-tree/count-number-of-nodes-in-a-binary-tree/"
+ },
+ {
+  "id": "111",
+  "name": "Requirements needed to construct a unique BT",
+  "difficulty": "Medium",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "110",
+  "name": "Construct a BT from Preorder and Inorder",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/"
+ },
+ {
+  "id": "2781",
+  "name": "Construct the Binary Tree from Postorder and Inorder Traversal",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/"
+ },
+ {
+  "id": "112",
+  "name": "Serialize and De-serialize BT",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/"
+ },
+ {
+  "id": "2791",
+  "name": "Morris Preorder Traversal of a Binary Tree",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/"
+ },
+ {
+  "id": "2792",
+  "name": "Morris Inorder Traversal of a Binary Tree",
+  "difficulty": "Hard",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/"
+ },
+ {
+  "id": "486",
+  "name": "Flatten Binary Tree to Linked List",
+  "difficulty": "Medium",
+  "step": "Binary Trees [Traversals, Medium and Hard Problems]",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/"
+ },
+ {
+  "id": "1153",
+  "name": "Introduction to BST",
+  "difficulty": "Easy",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Concepts",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/binary-search-tree/introduction-to-binary-search-trees/"
+ },
+ {
+  "id": "2780",
+  "name": "Search in a Binary Search Tree",
+  "difficulty": "Easy",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Concepts",
+  "leetcode": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/search-in-a-binary-search-tree-2/"
+ },
+ {
+  "id": "2398",
+  "name": "Find Min/Max in BST",
+  "difficulty": "Easy",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Concepts",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-minmax-in-a-bst"
+ }
+]

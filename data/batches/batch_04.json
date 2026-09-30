@@ -1,0 +1,212 @@
+[
+ {
+  "id": "947",
+  "name": "Selection Sort",
+  "difficulty": "Easy",
+  "step": "Learn Important Sorting Techniques",
+  "substep": "Sorting-I",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/sorting/selection-sort-algorithm/"
+ },
+ {
+  "id": "943",
+  "name": "Bubble Sort",
+  "difficulty": "Easy",
+  "step": "Learn Important Sorting Techniques",
+  "substep": "Sorting-I",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/bubble-sort-algorithm/"
+ },
+ {
+  "id": "944",
+  "name": "Insertion Sorting",
+  "difficulty": "Easy",
+  "step": "Learn Important Sorting Techniques",
+  "substep": "Sorting-I",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/insertion-sort-algorithm/"
+ },
+ {
+  "id": "945",
+  "name": "Merge Sorting",
+  "difficulty": "Medium",
+  "step": "Learn Important Sorting Techniques",
+  "substep": "Sorting-II",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/merge-sort-algorithm/"
+ },
+ {
+  "id": "881",
+  "name": "Recursive Bubble Sort",
+  "difficulty": "Easy",
+  "step": "Learn Important Sorting Techniques",
+  "substep": "Sorting-II",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/recursive-bubble-sort-algorithm/"
+ },
+ {
+  "id": "882",
+  "name": "Recursive Insertion Sort",
+  "difficulty": "Easy",
+  "step": "Learn Important Sorting Techniques",
+  "substep": "Sorting-II",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/recursive-insertion-sort-algorithm/"
+ },
+ {
+  "id": "946",
+  "name": "Quick Sorting",
+  "difficulty": "Easy",
+  "step": "Learn Important Sorting Techniques",
+  "substep": "Sorting-II",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/quick-sort-algorithm/"
+ },
+ {
+  "id": "38",
+  "name": "Largest Element",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/"
+ },
+ {
+  "id": "43",
+  "name": "Second Largest Element",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/"
+ },
+ {
+  "id": "379",
+  "name": "Check if the Array is Sorted II",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-an-array-is-sorted/"
+ },
+ {
+  "id": "2764",
+  "name": "Remove duplicates from Sorted array",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/"
+ },
+ {
+  "id": "40",
+  "name": "Left Rotate Array by One",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": "https://leetcode.com/problems/rotate-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/left-rotate-the-array-by-one/"
+ },
+ {
+  "id": "39",
+  "name": "Left Rotate Array by K Places",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": "https://leetcode.com/problems/rotate-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rotate-array-by-k-elements/"
+ },
+ {
+  "id": "46",
+  "name": "Move Zeros to End",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": "https://leetcode.com/problems/move-zeroes/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/"
+ },
+ {
+  "id": "41",
+  "name": "Linear Search",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/linear-search-in-c/"
+ },
+ {
+  "id": "48",
+  "name": "Union of two sorted arrays",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/union-of-two-sorted-arrays/"
+ },
+ {
+  "id": "44",
+  "name": "Find missing number",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://www.geeksforgeeks.org/find-the-missing-number/"
+ },
+ {
+  "id": "42",
+  "name": "Maximum Consecutive Ones",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": "https://leetcode.com/problems/max-consecutive-ones/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/"
+ },
+ {
+  "id": "2793",
+  "name": "Find the number that appears once, and other numbers twice.",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": "https://leetcode.com/problems/single-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/find-the-number-that-appears-once-and-the-other-numbers-twice/"
+ },
+ {
+  "id": "2836",
+  "name": "Longest subarray with given sum K(positives)",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/"
+ },
+ {
+  "id": "564",
+  "name": "Longest subarray with sum K",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Easy",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives"
+ }
+]

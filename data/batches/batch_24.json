@@ -1,0 +1,192 @@
+[
+ {
+  "id": "1221",
+  "name": "MST theory",
+  "difficulty": "Easy",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-spanning-tree-theory-g-44/"
+ },
+ {
+  "id": "2825",
+  "name": "Prim's Algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/"
+ },
+ {
+  "id": "516",
+  "name": "Disjoint Set",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/"
+ },
+ {
+  "id": "517",
+  "name": "Find the MST weight",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/"
+ },
+ {
+  "id": "515",
+  "name": "Number of operations to make network connected",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-operations-to-make-network-connected-dsu-g-49/"
+ },
+ {
+  "id": "513",
+  "name": "Most stones removed with same row or column",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/most-stones-removed-with-same-row-or-column-dsu-g-53/"
+ },
+ {
+  "id": "511",
+  "name": "Accounts merge",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": "https://leetcode.com/problems/accounts-merge/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/accounts-merge-dsu-g-50/"
+ },
+ {
+  "id": "514",
+  "name": "Number of islands II",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": "https://leetcode.com/problems/number-of-islands-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/number-of-islands-ii-online-queries-dsu-g-51/"
+ },
+ {
+  "id": "512",
+  "name": "Making a large island",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": "https://leetcode.com/problems/making-a-large-island/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/making-a-large-island-dsu-g-52/"
+ },
+ {
+  "id": "1006",
+  "name": "Swim in Rising Water",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "MinimumSpanningTree/Disjoint Set and Problems",
+  "leetcode": "https://leetcode.com/problems/swim-in-rising-water/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/swim-in-rising-water"
+ },
+ {
+  "id": "497",
+  "name": "Bridges in graph",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Other Algorithms",
+  "leetcode": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/bridges-in-graph-using-tarjans-algorithm-of-time-in-and-low-time-g-55/"
+ },
+ {
+  "id": "496",
+  "name": "Articulation point in graph",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Other Algorithms",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/articulation-point-in-graph-g-56/"
+ },
+ {
+  "id": "498",
+  "name": "Kosaraju's algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Other Algorithms",
+  "leetcode": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/"
+ },
+ {
+  "id": "1195",
+  "name": "Introduction to DP",
+  "difficulty": "Easy",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "Introduction to DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-introduction/"
+ },
+ {
+  "id": "287",
+  "name": "Climbing stairs",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": "https://leetcode.com/problems/climbing-stairs/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-climbing-stairs/"
+ },
+ {
+  "id": "288",
+  "name": "Frog Jump",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/"
+ },
+ {
+  "id": "289",
+  "name": "Frog jump with K distances",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/"
+ },
+ {
+  "id": "291",
+  "name": "Maximum sum of non adjacent elements",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": "https://leetcode.com/problems/house-robber/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5/"
+ },
+ {
+  "id": "290",
+  "name": "House robber",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "1D DP",
+  "leetcode": "https://leetcode.com/problems/house-robber-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-house-robber-dp-6/"
+ }
+]

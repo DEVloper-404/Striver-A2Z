@@ -1,0 +1,132 @@
+[
+ {
+  "id": "508",
+  "name": "Shortest path in undirected graph with unit weights",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/shortest-path-in-undirected-graph-with-unit-distance-g-28/"
+ },
+ {
+  "id": "507",
+  "name": "Shortest path in DAG",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/shortest-path-in-directed-acyclic-graph-topological-sort-g-27/"
+ },
+ {
+  "id": "2827",
+  "name": "Djisktra's Algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dijkstras-algorithm-using-set-g-33/"
+ },
+ {
+  "id": "2828",
+  "name": "Why priority Queue is used in Djisktra's Algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dijkstras-algorithm-using-priority-queue-g-32/"
+ },
+ {
+  "id": "527",
+  "name": "Shortest Distance in a Binary Maze",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/g-36-shortest-distance-in-a-binary-maze/"
+ },
+ {
+  "id": "525",
+  "name": "Path with minimum effort",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": "https://leetcode.com/problems/path-with-minimum-effort/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/g-37-path-with-minimum-effort/"
+ },
+ {
+  "id": "519",
+  "name": "Cheapest flight within K stops",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/g-38-cheapest-flights-within-k-stops/"
+ },
+ {
+  "id": "764",
+  "name": "Network Delay Time",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": "https://leetcode.com/problems/network-delay-time/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/network-delay-time"
+ },
+ {
+  "id": "524",
+  "name": "Number of ways to arrive at destination",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/g-40-number-of-ways-to-arrive-at-destination/"
+ },
+ {
+  "id": "523",
+  "name": "Minimum multiplications to reach end",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/graph/g-39-minimum-multiplications-to-reach-end/"
+ },
+ {
+  "id": "2826",
+  "name": "Bellman Ford Algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/"
+ },
+ {
+  "id": "522",
+  "name": "Floyd warshall algorithm",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/"
+ },
+ {
+  "id": "521",
+  "name": "Find the city with the smallest number of neighbors",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Shortest Path Algorithms and Problems",
+  "leetcode": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-the-city-with-the-smallest-number-of-neighbours-at-a-threshold-distance-g-43/"
+ }
+]

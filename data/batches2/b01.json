@@ -1,0 +1,162 @@
+[
+ {
+  "id": "864",
+  "name": "Combination Sum",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/combination-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/combination-sum-1/"
+ },
+ {
+  "id": "865",
+  "name": "Combination Sum II",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/combination-sum-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/"
+ },
+ {
+  "id": "867",
+  "name": "Subsets I",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/"
+ },
+ {
+  "id": "868",
+  "name": "Subsets II",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/subsets-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/"
+ },
+ {
+  "id": "866",
+  "name": "Combination Sum III",
+  "difficulty": "Medium",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/combination-sum-iii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/combination-sum-iii"
+ },
+ {
+  "id": "875",
+  "name": "Letter Combinations of a Phone Number",
+  "difficulty": "Hard",
+  "step": "Recursion [PatternWise]",
+  "substep": "Subsequences Pattern",
+  "leetcode": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/letter-combinations-of-a-phone-number"
+ },
+ {
+  "id": "586",
+  "name": "Infix to Postfix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/infix-to-postfix/"
+ },
+ {
+  "id": "848",
+  "name": "Prefix to Infix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/prefix-to-infix-conversion"
+ },
+ {
+  "id": "849",
+  "name": "Prefix to Postfix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/prefix-to-postfix-conversion"
+ },
+ {
+  "id": "825",
+  "name": "Postfix to Prefix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/postfix-to-prefix-conversion"
+ },
+ {
+  "id": "824",
+  "name": "Postfix to Infix Conversion",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/postfix-to-infix"
+ },
+ {
+  "id": "587",
+  "name": "Infix to Prefix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/infix-to-prefix/"
+ },
+ {
+  "id": "2834",
+  "name": "Assign Cookies",
+  "difficulty": "Easy",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Easy Problems",
+  "leetcode": "https://leetcode.com/problems/assign-cookies/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/assign-cookies"
+ },
+ {
+  "id": "489",
+  "name": "Fractional Knapsack",
+  "difficulty": "Medium",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Easy Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/"
+ },
+ {
+  "id": "543",
+  "name": "Lemonade Change",
+  "difficulty": "Easy",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Easy Problems",
+  "leetcode": "https://leetcode.com/problems/lemonade-change/",
+  "practice": null,
+  "article": "https://takeuforward.org/Greedy/lemonade-change"
+ },
+ {
+  "id": "545",
+  "name": "Valid Paranthesis Checker",
+  "difficulty": "Hard",
+  "step": "Greedy Algorithms [Easy, Medium/Hard]",
+  "substep": "Easy Problems",
+  "leetcode": "https://leetcode.com/problems/valid-parenthesis-string/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/valid-paranthesis-checker"
+ }
+]

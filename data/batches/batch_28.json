@@ -1,0 +1,152 @@
+[
+ {
+  "id": "1027",
+  "name": "Trie Implementation and Advanced Operations",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-trie-ii/"
+ },
+ {
+  "id": "1023",
+  "name": "Longest Word with All Prefixes",
+  "difficulty": "Medium",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "1026",
+  "name": "Number of distinct substrings in a string",
+  "difficulty": "Medium",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/"
+ },
+ {
+  "id": "2390",
+  "name": "Bit PreRequisites for TRIE Problems",
+  "difficulty": "Easy",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "1024",
+  "name": "Maximum XOR of two numbers in an array",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/"
+ },
+ {
+  "id": "1025",
+  "name": "Maximum Xor with an element from an array",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/trie/maximum-xor-queries-trie/"
+ },
+ {
+  "id": "983",
+  "name": "Minimum number of bracket reversals to make an expression balanced",
+  "difficulty": "Hard",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced"
+ },
+ {
+  "id": "982",
+  "name": "Count and say",
+  "difficulty": "Hard",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/count-and-say/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-and-say"
+ },
+ {
+  "id": "2399",
+  "name": "Hashing In Strings | Theory",
+  "difficulty": "Easy",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/hashing-in-strings"
+ },
+ {
+  "id": "979",
+  "name": "Rabin Karp Algorithm",
+  "difficulty": "Hard",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "981",
+  "name": "Z function",
+  "difficulty": "Hard",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "977",
+  "name": "KMP Algorithm or LPS array",
+  "difficulty": "Hard",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/implement-strstr/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/kmp-algorithm-or-lps-array"
+ },
+ {
+  "id": "980",
+  "name": "Shortest Palindrome",
+  "difficulty": "Hard",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "978",
+  "name": "Longest happy prefix",
+  "difficulty": "Hard",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/longest-happy-prefix/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-happy-prefix"
+ },
+ {
+  "id": "231",
+  "name": "Count Palindromic Subsequences",
+  "difficulty": "Medium",
+  "step": "Strings",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/count-palindromic-subsequences/",
+  "practice": null,
+  "article": null
+ }
+]

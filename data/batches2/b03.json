@@ -1,0 +1,162 @@
+[
+ {
+  "id": "528",
+  "name": "Connected Components",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/connected-components"
+ },
+ {
+  "id": "529",
+  "name": "Traversal Techniques",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/depth-first-search-dfs/"
+ },
+ {
+  "id": "2831",
+  "name": "DFS",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/depth-first-search-dfs/"
+ },
+ {
+  "id": "535",
+  "name": "Number of provinces",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-provinces/"
+ },
+ {
+  "id": "2830",
+  "name": "Connected Components Problem in Matrix",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/connected-components"
+ },
+ {
+  "id": "536",
+  "name": "Rotten Oranges",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/rotting-oranges/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/"
+ },
+ {
+  "id": "531",
+  "name": "Flood fill algorithm",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/flood-fill/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "2817",
+  "name": "Cycle Detection in Undirected Graph (bfs)",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/"
+ },
+ {
+  "id": "501",
+  "name": "Detect a cycle in an undirected graph",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/course-schedule/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/"
+ },
+ {
+  "id": "530",
+  "name": "Distance of nearest cell having one",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/01-matrix/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/distance-of-nearest-cell-having-1/"
+ },
+ {
+  "id": "537",
+  "name": "Surrounded Regions",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/surrounded-regions/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/"
+ },
+ {
+  "id": "533",
+  "name": "Number of enclaves",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/number-of-enclaves/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/number-of-enclaves/"
+ },
+ {
+  "id": "509",
+  "name": "Word ladder I",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/word-ladder/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/word-ladder-i-g-29/"
+ },
+ {
+  "id": "510",
+  "name": "Word ladder II",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/word-ladder-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/g-30-word-ladder-ii/"
+ },
+ {
+  "id": "534",
+  "name": "Number of islands",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/number-of-islands/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-distinct-islands/"
+ },
+ {
+  "id": "2813",
+  "name": "Bipartite Graph (DFS)",
+  "difficulty": "Hard",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Problems on BFS/DFS",
+  "leetcode": "https://leetcode.com/problems/is-graph-bipartite/",
+  "practice": null,
+  "article": "https://takeuforward.org/graph/bipartite-graph-dfs-implementation/"
+ }
+]

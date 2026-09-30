@@ -1,0 +1,192 @@
+[
+ {
+  "id": "2853",
+  "name": "Print Prime Factors of a Number",
+  "difficulty": "Hard",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Advanced Maths",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-the-two-numbers-appearing-odd-number-of-times"
+ },
+ {
+  "id": "370",
+  "name": "Divisors of a Number",
+  "difficulty": "Easy",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Advanced Maths",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/"
+ },
+ {
+  "id": "651",
+  "name": "Count primes in range L to R",
+  "difficulty": "Hard",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Advanced Maths",
+  "leetcode": "https://leetcode.com/problems/count-primes/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sieve-of-eratosthenes"
+ },
+ {
+  "id": "652",
+  "name": "Prime factorisation of a Number",
+  "difficulty": "Hard",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Advanced Maths",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-the-two-numbers-appearing-odd-number-of-times"
+ },
+ {
+  "id": "877",
+  "name": "Pow(x,n)",
+  "difficulty": "Medium",
+  "step": "Bit Manipulation [Concepts & Problems]",
+  "substep": "Advanced Maths",
+  "leetcode": "https://leetcode.com/problems/powx-n/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/"
+ },
+ {
+  "id": "390",
+  "name": "Implement Stack using Arrays",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-stack-using-array/"
+ },
+ {
+  "id": "387",
+  "name": "Implement Queue using Arrays",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-queue-using-array/"
+ },
+ {
+  "id": "392",
+  "name": "Implement Stack using Queue",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": "https://leetcode.com/problems/implement-stack-using-queues/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-stack-using-single-queue"
+ },
+ {
+  "id": "389",
+  "name": "Implement Queue using Stack",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": "https://leetcode.com/problems/implement-queue-using-stacks/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-queue-using-stack/"
+ },
+ {
+  "id": "391",
+  "name": "Implement stack using Linkedlist",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-stack-using-linked-list/"
+ },
+ {
+  "id": "388",
+  "name": "Implement queue using Linkedlist",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-queue-using-linked-list/"
+ },
+ {
+  "id": "966",
+  "name": "Balanced Paranthesis",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": "https://leetcode.com/problems/valid-parentheses/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/"
+ },
+ {
+  "id": "958",
+  "name": "Implement Min Stack",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Learning",
+  "leetcode": "https://leetcode.com/problems/min-stack/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/"
+ },
+ {
+  "id": "586",
+  "name": "Infix to Postfix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/infix-to-postfix/"
+ },
+ {
+  "id": "848",
+  "name": "Prefix to Infix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/prefix-to-infix-conversion"
+ },
+ {
+  "id": "849",
+  "name": "Prefix to Postfix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/prefix-to-postfix-conversion"
+ },
+ {
+  "id": "825",
+  "name": "Postfix to Prefix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/postfix-to-prefix-conversion"
+ },
+ {
+  "id": "824",
+  "name": "Postfix to Infix Conversion",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/postfix-to-infix"
+ },
+ {
+  "id": "587",
+  "name": "Infix to Prefix Conversion",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Prefix, Infix, PostFix Conversion Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/infix-to-prefix/"
+ }
+]

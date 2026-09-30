@@ -1,0 +1,222 @@
+[
+ {
+  "id": "1234",
+  "name": "Introduction to Doubly LL",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn Doubly LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/introduction-to-doubly-linked-list"
+ },
+ {
+  "id": "361",
+  "name": "Insert node before head in Doubly Linked List",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn Doubly LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/"
+ },
+ {
+  "id": "348",
+  "name": "Delete head of Doubly Linked List",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn Doubly LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/"
+ },
+ {
+  "id": "900",
+  "name": "Reverse a Doubly Linked List",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn Doubly LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-a-doubly-linked-list/"
+ },
+ {
+  "id": "2810",
+  "name": "Middle of a LinkedList [TortoiseHare Method]",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/middle-of-the-linked-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/"
+ },
+ {
+  "id": "2850",
+  "name": "Reverse a LinkedList [Iterative]",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/reverse-linked-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-a-linked-list/"
+ },
+ {
+  "id": "627",
+  "name": "Reverse a LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/reverse-linked-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-a-linked-list/"
+ },
+ {
+  "id": "2845",
+  "name": "Detect a loop in LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/linked-list-cycle/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/"
+ },
+ {
+  "id": "2847",
+  "name": "Find the starting point in LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/linked-list-cycle-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/"
+ },
+ {
+  "id": "623",
+  "name": "Length of loop in LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/length-of-loop-in-linked-list"
+ },
+ {
+  "id": "2844",
+  "name": "Check if LL is palindrome or not",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/palindrome-linked-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/"
+ },
+ {
+  "id": "628",
+  "name": "Segregate odd and even nodes in Linked List",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/odd-even-linked-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/segregate-even-and-odd-nodes-in-linkedlist"
+ },
+ {
+  "id": "2849",
+  "name": "Remove Nth node from the back of the LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/"
+ },
+ {
+  "id": "619",
+  "name": "Delete the middle node in LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/#:~:text=You%20are%20given%20the%20head,than%20or%20equal%20to%20x%20.",
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/delete-the-middle-node-of-the-linked-list"
+ },
+ {
+  "id": "616",
+  "name": "Sort LL",
+  "difficulty": "Hard",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/sort-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/sort-a-linked-list"
+ },
+ {
+  "id": "629",
+  "name": "Sort a Linked List of 0's 1's and 2's",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sort-a-linked-list-of-0s-1s-and-2s-by-changing-links"
+ },
+ {
+  "id": "2846",
+  "name": "Find the intersection point of Y LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/"
+ },
+ {
+  "id": "617",
+  "name": "Add one to a number represented by LL",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/add-1-to-a-number-represented-by-ll"
+ },
+ {
+  "id": "625",
+  "name": "Add two numbers in Linked List",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of LL",
+  "leetcode": "https://leetcode.com/problems/add-two-numbers/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/"
+ },
+ {
+  "id": "609",
+  "name": "Delete all occurrences of a key in DLL",
+  "difficulty": "Hard",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of DLL",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/delete-all-occurrences-of-a-key-in-dll"
+ },
+ {
+  "id": "452",
+  "name": "Find Pairs with Given Sum in Doubly Linked List",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of DLL",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-pairs-with-given-sum-in-doubly-linked-list"
+ },
+ {
+  "id": "610",
+  "name": "Remove duplicates from sorted DLL",
+  "difficulty": "Hard",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Medium Problems of DLL",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/remove-duplicates-from-sorted-dll"
+ }
+]

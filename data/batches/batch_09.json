@@ -1,0 +1,202 @@
+[
+ {
+  "id": "892",
+  "name": "Remove Outermost Parentheses",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Basic and Easy String Problems",
+  "leetcode": "https://leetcode.com/problems/remove-outermost-parentheses/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/remove-outermost-parentheses"
+ },
+ {
+  "id": "2863",
+  "name": "Reverse words in a given string / Palindrome Check",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Basic and Easy String Problems",
+  "leetcode": "https://leetcode.com/problems/reverse-words-in-a-string/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-words-in-a-string/"
+ },
+ {
+  "id": "394",
+  "name": "Largest Odd Number in a String",
+  "difficulty": "Easy",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Basic and Easy String Problems",
+  "leetcode": "https://leetcode.com/problems/largest-odd-number-in-string/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/largest-odd-number-in-a-string"
+ },
+ {
+  "id": "395",
+  "name": "Longest Common Prefix",
+  "difficulty": "Easy",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Basic and Easy String Problems",
+  "leetcode": "https://leetcode.com/problems/longest-common-prefix/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-common-prefix"
+ },
+ {
+  "id": "393",
+  "name": "Isomorphic String",
+  "difficulty": "Easy",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Basic and Easy String Problems",
+  "leetcode": "https://leetcode.com/problems/isomorphic-strings/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/isomorphic-string"
+ },
+ {
+  "id": "398",
+  "name": "Rotate String",
+  "difficulty": "Easy",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Basic and Easy String Problems",
+  "leetcode": "https://leetcode.com/problems/rotate-string/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-one-string-is-rotation-of-another"
+ },
+ {
+  "id": "2809",
+  "name": "Check if two strings are anagram of each other",
+  "difficulty": "Easy",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Basic and Easy String Problems",
+  "leetcode": "https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&text=Constraints%3A,.length%20%3C%3D%205%20*%2010",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/"
+ },
+ {
+  "id": "399",
+  "name": "Sort Characters by Frequency",
+  "difficulty": "Easy",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": "https://leetcode.com/problems/sort-characters-by-frequency/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sort-characters-by-frequency"
+ },
+ {
+  "id": "674",
+  "name": "Maximum Nesting Depth of the Parentheses",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-nesting-depth-of-parenthesis"
+ },
+ {
+  "id": "903",
+  "name": "Roman to Integer",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": "https://leetcode.com/problems/roman-to-integer/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/roman-numerals-to-integer"
+ },
+ {
+  "id": "974",
+  "name": "String to Integer (atoi)",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": "https://leetcode.com/problems/string-to-integer-atoi/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/recursive-implementation-of-atoi"
+ },
+ {
+  "id": "2394",
+  "name": "Count Number of Substrings",
+  "difficulty": "Easy",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-number-of-substrings"
+ },
+ {
+  "id": "638",
+  "name": "Longest Palindromic Substring",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": "https://leetcode.com/problems/longest-palindromic-substring/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "993",
+  "name": "Sum of Beauty of All Substrings",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sum-of-beauty-of-all-substring"
+ },
+ {
+  "id": "984",
+  "name": "Reverse every word in a string",
+  "difficulty": "Medium",
+  "step": "Strings [Basic and Medium]",
+  "substep": "Medium String Problems",
+  "leetcode": "https://leetcode.com/problems/reverse-words-in-a-string/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-words-in-a-string/"
+ },
+ {
+  "id": "1237",
+  "name": "Introduction to Singly LinkedList",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn 1D LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/linked-list-introduction"
+ },
+ {
+  "id": "356",
+  "name": "Insertion at the head of Linked List",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn 1D LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/insert-at-the-head-of-a-linked-list"
+ },
+ {
+  "id": "352",
+  "name": "Deletion of the head of LL",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn 1D LinkedList",
+  "leetcode": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/delete-last-node-of-linked-list/"
+ },
+ {
+  "id": "470",
+  "name": "Find the length of the Linked List",
+  "difficulty": "Easy",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn 1D LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/find-the-length-of-a-linked-list"
+ },
+ {
+  "id": "905",
+  "name": "Search in Linked List",
+  "difficulty": "Medium",
+  "step": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+  "substep": "Learn 1D LinkedList",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/linked-list/search-an-element-in-a-linked-list"
+ }
+]

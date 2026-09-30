@@ -1,0 +1,13 @@
+{
+  "name": "a2z-dsa-sheet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline clone of the A2Z DSA sheet: 474 problems across 18 steps, with progress tracking and original solution write-ups.",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "build": "python3 build.py",
+    "bundle": "python3 build_solutions.py"
+  },
+  "keywords": ["dsa", "algorithms", "data-structures", "interview-prep", "offline"],
+  "license": "UNLICENSED"
+}

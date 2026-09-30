@@ -1,0 +1,162 @@
+[
+ {
+  "id": "2857",
+  "name": "Longest Substring Without Repeating Characters",
+  "difficulty": "Medium",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/"
+ },
+ {
+  "id": "930",
+  "name": "Max Consecutive Ones III",
+  "difficulty": "Medium",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/max-consecutive-ones-iii"
+ },
+ {
+  "id": "926",
+  "name": "Fruit Into Baskets",
+  "difficulty": "Medium",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/fruit-into-baskets/description/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/fruit-into-baskets"
+ },
+ {
+  "id": "927",
+  "name": "Longest Repeating Character Replacement",
+  "difficulty": "Hard",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-repeating-character-replacement"
+ },
+ {
+  "id": "923",
+  "name": "Binary Subarrays With Sum",
+  "difficulty": "Hard",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/binary-subarray-with-sum"
+ },
+ {
+  "id": "924",
+  "name": "Count number of Nice subarrays",
+  "difficulty": "Hard",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-number-of-nice-subarrays"
+ },
+ {
+  "id": "925",
+  "name": "Number of Substrings Containing All Three Characters",
+  "difficulty": "Hard",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-substring-containing-all-three-characters"
+ },
+ {
+  "id": "922",
+  "name": "Maximum Points You Can Obtain from Cards",
+  "difficulty": "Medium",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Medium Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-point-you-can-obtain-from-cards"
+ },
+ {
+  "id": "928",
+  "name": "Longest Substring With At Most K Distinct Characters",
+  "difficulty": "Hard",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-substring-with-at-most-k-distinct-characters"
+ },
+ {
+  "id": "988",
+  "name": "Subarrays with K Different Integers",
+  "difficulty": "Medium",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/subarray-with-k-different-integers"
+ },
+ {
+  "id": "931",
+  "name": "Minimum Window Substring",
+  "difficulty": "Hard",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/minimum-window-substring/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "754",
+  "name": "Minimum Window Subsequence",
+  "difficulty": "Hard",
+  "step": "Sliding Window & Two Pointer Combined Problems",
+  "substep": "Hard Problems",
+  "leetcode": "https://leetcode.com/problems/minimum-window-subsequence/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "1223",
+  "name": "Heaps (Theory Video)",
+  "difficulty": "Easy",
+  "step": "Heaps [Learning, Medium, Hard Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/introduction-to-priority-queues-using-binary-heaps"
+ },
+ {
+  "id": "576",
+  "name": "Implement Min Heap",
+  "difficulty": "Medium",
+  "step": "Heaps [Learning, Medium, Hard Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "571",
+  "name": "Check if an array represents a min heap",
+  "difficulty": "Medium",
+  "step": "Heaps [Learning, Medium, Hard Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-an-array-represents-a-min-heap"
+ },
+ {
+  "id": "572",
+  "name": "Convert Min Heap to Max Heap",
+  "difficulty": "Medium",
+  "step": "Heaps [Learning, Medium, Hard Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ }
+]

@@ -1,0 +1,142 @@
+[
+ {
+  "id": "37",
+  "name": "Two Sum",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/two-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/"
+ },
+ {
+  "id": "2762",
+  "name": "Sort an array of 0's 1's and 2's",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/sort-colors/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/"
+ },
+ {
+  "id": "22",
+  "name": "Majority Element-I",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/majority-element/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/"
+ },
+ {
+  "id": "29",
+  "name": "Kadane's Algorithm",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/maximum-subarray/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/"
+ },
+ {
+  "id": "2761",
+  "name": "Print subarray with maximum subarray sum (extended version of above problem)",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/"
+ },
+ {
+  "id": "2798",
+  "name": "Stock Buy and Sell",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/stock-buy-and-sell/"
+ },
+ {
+  "id": "34",
+  "name": "Rearrange array elements by sign",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/rearrange-array-elements-by-sign/"
+ },
+ {
+  "id": "31",
+  "name": "Next Permutation",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/next-permutation/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/"
+ },
+ {
+  "id": "30",
+  "name": "Leaders in an Array",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/leaders-in-an-array/"
+ },
+ {
+  "id": "2835",
+  "name": "Longest Consecutive Sequence in an Array",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/longest-consecutive-sequence/solution/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/"
+ },
+ {
+  "id": "911",
+  "name": "Set Matrix Zeroes",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/set-matrix-zeroes/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/set-matrix-zero/"
+ },
+ {
+  "id": "35",
+  "name": "Rotate matrix by 90 degrees",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/rotate-image/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rotate-image-by-90-degree/"
+ },
+ {
+  "id": "33",
+  "name": "Print the matrix in spiral manner",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/spiral-matrix/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/spiral-traversal-of-matrix/"
+ },
+ {
+  "id": "561",
+  "name": "Count subarrays with given sum",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Medium",
+  "leetcode": "https://leetcode.com/problems/subarray-sum-equals-k/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/count-subarray-sum-equals-k/"
+ }
+]

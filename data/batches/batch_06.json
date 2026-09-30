@@ -1,0 +1,122 @@
+[
+ {
+  "id": "813",
+  "name": "Pascal's Triangle I",
+  "difficulty": "Easy",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/pascals-triangle/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/program-to-generate-pascals-triangle"
+ },
+ {
+  "id": "23",
+  "name": "Majority Element-II",
+  "difficulty": "Hard",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/majority-element-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/"
+ },
+ {
+  "id": "27",
+  "name": "3 Sum",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/3sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/"
+ },
+ {
+  "id": "28",
+  "name": "4 Sum",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/4sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/"
+ },
+ {
+  "id": "605",
+  "name": "Largest Subarray with Sum 0",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/"
+ },
+ {
+  "id": "562",
+  "name": "Count subarrays with given xor K",
+  "difficulty": "Hard",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/"
+ },
+ {
+  "id": "715",
+  "name": "Merge Overlapping Subintervals",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/merge-intervals/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/"
+ },
+ {
+  "id": "25",
+  "name": "Merge two sorted arrays without extra space",
+  "difficulty": "Medium",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/merge-sorted-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/"
+ },
+ {
+  "id": "21",
+  "name": "Find the repeating and missing number",
+  "difficulty": "Hard",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/"
+ },
+ {
+  "id": "20",
+  "name": "Count Inversions",
+  "difficulty": "Hard",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-inversions-in-an-array"
+ },
+ {
+  "id": "26",
+  "name": "Reverse Pairs",
+  "difficulty": "Hard",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/reverse-pairs/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-reverse-pairs/"
+ },
+ {
+  "id": "24",
+  "name": "Maximum Product Subarray in an Array",
+  "difficulty": "Hard",
+  "step": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+  "substep": "Hard",
+  "leetcode": "https://leetcode.com/problems/maximum-product-subarray/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/"
+ }
+]

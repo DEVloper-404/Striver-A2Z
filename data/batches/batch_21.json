@@ -1,0 +1,192 @@
+[
+ {
+  "id": "107",
+  "name": "Floor and Ceil in a BST",
+  "difficulty": "Easy",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "2778",
+  "name": "Floor in a Binary Search Tree",
+  "difficulty": "Easy",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/binary-search-tree/floor-in-a-binary-search-tree/"
+ },
+ {
+  "id": "104",
+  "name": "Insert a given node in BST",
+  "difficulty": "Medium",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "102",
+  "name": "Delete a node in BST",
+  "difficulty": "Medium",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/delete-node-in-a-bst/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "105",
+  "name": "Kth Smallest and Largest element in BST",
+  "difficulty": "Medium",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/"
+ },
+ {
+  "id": "100",
+  "name": "Check if a tree is a BST or not",
+  "difficulty": "Medium",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/validate-binary-search-tree/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "106",
+  "name": "LCA in BST",
+  "difficulty": "Medium",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "101",
+  "name": "Construct a BST from a preorder traversal",
+  "difficulty": "Medium",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "2775",
+  "name": "Inorder Successor/Predecessor in BST",
+  "difficulty": "Medium",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/inorder-successor-in-bst/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/inorder-successorpredecessor-in-bst"
+ },
+ {
+  "id": "2772",
+  "name": "Merge 2 BST's",
+  "difficulty": "Hard",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/binary-search-tree-iterator/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/bst-iterator"
+ },
+ {
+  "id": "2774",
+  "name": "Two Sum In BST | Check if there exists a pair with Sum K",
+  "difficulty": "Hard",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/two-sum-in-bst-check-if-there-exists-a-pair-with-sum-k"
+ },
+ {
+  "id": "97",
+  "name": "Correct BST with two nodes swapped",
+  "difficulty": "Hard",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/recover-binary-search-tree/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "98",
+  "name": "Largest BST in Binary Tree",
+  "difficulty": "Hard",
+  "step": "Binary Search Trees [Concept and Problems]",
+  "substep": "Practice Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "1222",
+  "name": "Introduction to Graph",
+  "difficulty": "Easy",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/graph-representation-in-java"
+ },
+ {
+  "id": "2870",
+  "name": "Graph Representation | C++",
+  "difficulty": "Easy",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/graph/graph-representation-in-c/"
+ },
+ {
+  "id": "2871",
+  "name": "Graph Representation | Java",
+  "difficulty": "Easy",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/graph-representation-in-java"
+ },
+ {
+  "id": "528",
+  "name": "Connected Components",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/connected-components"
+ },
+ {
+  "id": "529",
+  "name": "Traversal Techniques",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/depth-first-search-dfs/"
+ },
+ {
+  "id": "2831",
+  "name": "DFS",
+  "difficulty": "Medium",
+  "step": "Graphs [Concepts & Problems]",
+  "substep": "Learning",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/depth-first-search-dfs/"
+ }
+]

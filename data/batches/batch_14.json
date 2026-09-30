@@ -1,0 +1,162 @@
+[
+ {
+  "id": "968",
+  "name": "Next Greater Element",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/next-greater-element-i/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/next-greater-element-using-stack/"
+ },
+ {
+  "id": "969",
+  "name": "Next Greater Element - 2",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/next-greater-element-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/next-greater-element-2"
+ },
+ {
+  "id": "768",
+  "name": "Next Smaller Element",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/next-smaller-element"
+ },
+ {
+  "id": "285",
+  "name": "Number of Greater Elements to the Right",
+  "difficulty": "Easy",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-nges-to-the-right"
+ },
+ {
+  "id": "965",
+  "name": "Trapping Rainwater",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/trapping-rain-water/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/trapping-rainwater/"
+ },
+ {
+  "id": "971",
+  "name": "Sum of Subarray Minimums",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sum-of-subarray-minimums"
+ },
+ {
+  "id": "967",
+  "name": "Asteroid Collision",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/asteroid-collision/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/asteroid-collision"
+ },
+ {
+  "id": "972",
+  "name": "Sum of Subarray Ranges",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sum-of-subarray-ranges"
+ },
+ {
+  "id": "970",
+  "name": "Remove K Digits",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/remove-k-digits/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/remove-k-digits"
+ },
+ {
+  "id": "959",
+  "name": "Largest rectangle in a histogram",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/"
+ },
+ {
+  "id": "962",
+  "name": "Maximum Rectangles",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Monotonic Stack/Queue Problems [VVV. Imp]",
+  "leetcode": "https://leetcode.com/problems/maximal-rectangle/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-rectangle-area-with-all-1s-dp-on-rectangles-dp-55/"
+ },
+ {
+  "id": "963",
+  "name": "Sliding Window Maximum",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Implementation Problems",
+  "leetcode": "https://leetcode.com/problems/sliding-window-maximum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sliding-window-maximum/"
+ },
+ {
+  "id": "964",
+  "name": "Stock span problem",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Implementation Problems",
+  "leetcode": "https://leetcode.com/problems/online-stock-span/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/stock-span-problem"
+ },
+ {
+  "id": "957",
+  "name": "Celebrity Problem",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Implementation Problems",
+  "leetcode": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/celebrity-problem"
+ },
+ {
+  "id": "961",
+  "name": "LRU Cache",
+  "difficulty": "Medium",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Implementation Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/program-for-least-recently-used-lru-page-replacement-algorithm"
+ },
+ {
+  "id": "960",
+  "name": "LFU Cache",
+  "difficulty": "Hard",
+  "step": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+  "substep": "Implementation Problems",
+  "leetcode": "https://leetcode.com/problems/lfu-cache/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/lfu-cache"
+ }
+]

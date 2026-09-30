@@ -1,0 +1,132 @@
+[
+ {
+  "id": "81",
+  "name": "Search X in sorted array",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/binary-search/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/binary-search-explained/"
+ },
+ {
+  "id": "80",
+  "name": "Lower Bound",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/implement-lower-bound-bs-2/"
+ },
+ {
+  "id": "82",
+  "name": "Upper Bound",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/implement-upper-bound/"
+ },
+ {
+  "id": "89",
+  "name": "Search insert position",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/search-insert-position/#:~:text=Search%20Insert%20Position%20%2D%20LeetCode&text=Given%20a%20sorted%20array%20of,(log%20n)%20runtime%20complexity.",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/search-insert-position/"
+ },
+ {
+  "id": "86",
+  "name": "Floor and Ceil in Sorted Array",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/"
+ },
+ {
+  "id": "85",
+  "name": "First and last occurrence",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/last-occurrence-in-a-sorted-array/"
+ },
+ {
+  "id": "229",
+  "name": "Count Occurrences in a Sorted Array",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-occurrences-in-sorted-array/"
+ },
+ {
+  "id": "87",
+  "name": "Search in rotated sorted array-I",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/"
+ },
+ {
+  "id": "88",
+  "name": "Search in rotated sorted array-II",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/search-element-in-rotated-sorted-array-ii"
+ },
+ {
+  "id": "83",
+  "name": "Find minimum in Rotated Sorted Array",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/"
+ },
+ {
+  "id": "84",
+  "name": "Find out how many times the array is rotated",
+  "difficulty": "Easy",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/"
+ },
+ {
+  "id": "2770",
+  "name": "Single element in a Sorted Array",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/"
+ },
+ {
+  "id": "75",
+  "name": "Find peak element",
+  "difficulty": "Medium",
+  "step": "Binary Search [1D, 2D Arrays, Search Space]",
+  "substep": "BS on 1D Arrays",
+  "leetcode": "https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/peak-element-in-array/"
+ }
+]

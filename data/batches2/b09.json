@@ -1,0 +1,162 @@
+[
+ {
+  "id": "327",
+  "name": "Matrix chain multiplication",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/"
+ },
+ {
+  "id": "2806",
+  "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/matrix-chain-multiplication-tabulation-method-dp-49/"
+ },
+ {
+  "id": "328",
+  "name": "Minimum cost to cut the stick",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-cost-to-cut-the-stick-dp-50/"
+ },
+ {
+  "id": "326",
+  "name": "Burst balloons",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/burst-balloons/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/burst-balloons-partition-dp-dp-51/"
+ },
+ {
+  "id": "276",
+  "name": "Different Ways to Evaluate a Boolean Expression",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/evaluate-boolean-expression-to-true-partition-dp-dp-52/"
+ },
+ {
+  "id": "329",
+  "name": "Palindrome partitioning II",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/palindrome-partitioning-ii-front-partition-dp-53/"
+ },
+ {
+  "id": "810",
+  "name": "Partition Array for Maximum Sum",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "MCM DP | Partition DP",
+  "leetcode": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/partition-array-for-maximum-sum-front-partition-dp-54/"
+ },
+ {
+  "id": "2860",
+  "name": "Maximum Rectangle Area with all 1's|(DP-55)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Squares",
+  "leetcode": "https://leetcode.com/problems/maximal-rectangle/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-rectangle-area-with-all-1s-dp-on-rectangles-dp-55/"
+ },
+ {
+  "id": "2395",
+  "name": "Count Square Submatrices with All Ones|(DP-56)",
+  "difficulty": "Easy",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Squares",
+  "leetcode": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-square-submatrices-with-all-1s-dp-on-rectangles-dp-56/"
+ },
+ {
+  "id": "1028",
+  "name": "Trie Implementation and Operations",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Theory",
+  "leetcode": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-trie-1/"
+ },
+ {
+  "id": "1027",
+  "name": "Trie Implementation and Advanced Operations",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/implement-trie-ii/"
+ },
+ {
+  "id": "1023",
+  "name": "Longest Word with All Prefixes",
+  "difficulty": "Medium",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "1026",
+  "name": "Number of distinct substrings in a string",
+  "difficulty": "Medium",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/"
+ },
+ {
+  "id": "2390",
+  "name": "Bit PreRequisites for TRIE Problems",
+  "difficulty": "Easy",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": null,
+  "practice": null,
+  "article": null
+ },
+ {
+  "id": "1024",
+  "name": "Maximum XOR of two numbers in an array",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/"
+ },
+ {
+  "id": "1025",
+  "name": "Maximum Xor with an element from an array",
+  "difficulty": "Hard",
+  "step": "Tries",
+  "substep": "Problems",
+  "leetcode": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+  "practice": null,
+  "article": "https://takeuforward.org/trie/maximum-xor-queries-trie/"
+ }
+]

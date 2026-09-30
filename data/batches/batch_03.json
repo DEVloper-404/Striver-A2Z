@@ -1,0 +1,212 @@
+[
+ {
+  "id": "1218",
+  "name": "STL",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn STL/Java-Collections or similar thing in your language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-containers/"
+ },
+ {
+  "id": "1217",
+  "name": "Java Collections",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn STL/Java-Collections or similar thing in your language",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/java-collections"
+ },
+ {
+  "id": "367",
+  "name": "Count all Digits of a Number",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Know Basic Maths",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-digits-in-a-number/"
+ },
+ {
+  "id": "376",
+  "name": "Reverse a number",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Know Basic Maths",
+  "leetcode": "https://leetcode.com/problems/reverse-integer/",
+  "practice": null,
+  "article": "https://takeuforward.org/maths/reverse-digits-of-a-number"
+ },
+ {
+  "id": "374",
+  "name": "Palindrome Number",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Know Basic Maths",
+  "leetcode": "https://leetcode.com/problems/palindrome-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/"
+ },
+ {
+  "id": "372",
+  "name": "GCD of Two Numbers",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Know Basic Maths",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/find-gcd-of-two-numbers/"
+ },
+ {
+  "id": "366",
+  "name": "Check if the Number is Armstrong",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Know Basic Maths",
+  "leetcode": "https://leetcode.com/problems/armstrong-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/"
+ },
+ {
+  "id": "2807",
+  "name": "Print all Divisors",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Know Basic Maths",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/"
+ },
+ {
+  "id": "365",
+  "name": "Check for Prime Number",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Know Basic Maths",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/"
+ },
+ {
+  "id": "2401",
+  "name": "Understand recursion by print something N times",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/"
+ },
+ {
+  "id": "2405",
+  "name": "Print name N times using recursion",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/recursion/print-name-n-times-using-recursion/"
+ },
+ {
+  "id": "850",
+  "name": "Print 1 to N using Recursion",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/recursion/print-1-to-n-using-recursion/"
+ },
+ {
+  "id": "852",
+  "name": "Print N to 1 using Recursion",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/recursion/print-n-to-1-using-recursion/"
+ },
+ {
+  "id": "386",
+  "name": "Sum of First N Numbers",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/"
+ },
+ {
+  "id": "371",
+  "name": "Factorial of a given number",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive"
+ },
+ {
+  "id": "342",
+  "name": "Reverse an array",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/reverse-a-given-array/"
+ },
+ {
+  "id": "378",
+  "name": "Check if String is Palindrome or Not",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": "https://leetcode.com/problems/valid-palindrome/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/"
+ },
+ {
+  "id": "381",
+  "name": "Fibonacci Number",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Recursion",
+  "leetcode": "https://leetcode.com/problems/fibonacci-number/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/"
+ },
+ {
+  "id": "1203",
+  "name": "Basic Hashing",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Hashing",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/hashing/hashing-maps-time-complexity-collisions-division-rule-of-hashing-strivers-a2z-dsa-course/"
+ },
+ {
+  "id": "252",
+  "name": "Counting Frequencies of Array Elements",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Hashing",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/"
+ },
+ {
+  "id": "344",
+  "name": "Highest Occurring Element in an Array",
+  "difficulty": "Easy",
+  "step": "Learn the basics",
+  "substep": "Learn Basic Hashing",
+  "leetcode": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+  "practice": null,
+  "article": "https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/"
+ }
+]

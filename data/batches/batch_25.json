@@ -1,0 +1,172 @@
+[
+ {
+  "id": "292",
+  "name": "Ninja's training",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/"
+ },
+ {
+  "id": "2795",
+  "name": "Grid Unique Paths : DP on Grids (DP8)",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/unique-paths/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/grid-unique-paths-dp-on-grids-dp8/"
+ },
+ {
+  "id": "300",
+  "name": "Unique paths II",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/unique-paths-ii/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/"
+ },
+ {
+  "id": "298",
+  "name": "Minimum Falling Path Sum",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/minimum-path-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/"
+ },
+ {
+  "id": "299",
+  "name": "Triangle",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": "https://leetcode.com/problems/triangle/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-path-sum-in-triangular-grid-dp-11/"
+ },
+ {
+  "id": "769",
+  "name": "Ninja and his Friends",
+  "difficulty": "Medium",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "2D/3D DP and DP on Grids",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/3-d-dp-ninja-and-his-friends-dp-13/"
+ },
+ {
+  "id": "2804",
+  "name": "Subset sum equal to target (DP- 14)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/"
+ },
+ {
+  "id": "321",
+  "name": "Partition equal subset sum",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/partition-equal-subset-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/"
+ },
+ {
+  "id": "320",
+  "name": "Partition a set into two subsets with minimum absolute sum difference",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/partition-set-into-2-subsets-with-min-absolute-sum-diff-dp-16/"
+ },
+ {
+  "id": "318",
+  "name": "Count subsets with sum K",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-subsets-with-sum-k-dp-17/"
+ },
+ {
+  "id": "317",
+  "name": "Count partitions with given difference",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/"
+ },
+ {
+  "id": "541",
+  "name": "Assign Cookies",
+  "difficulty": "Easy",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/assign-cookies/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/assign-cookies"
+ },
+ {
+  "id": "2802",
+  "name": "Minimum Coins (DP - 20)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/coin-change/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/minimum-coins-dp-20/"
+ },
+ {
+  "id": "324",
+  "name": "Target sum",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/target-sum/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/target-sum-dp-21/"
+ },
+ {
+  "id": "2801",
+  "name": "Coin Change 2 (DP - 22)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": "https://leetcode.com/problems/coin-change-2/",
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/coin-change-2-dp-22/"
+ },
+ {
+  "id": "325",
+  "name": "Unbounded knapsack",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/unbounded-knapsack-dp-23/"
+ },
+ {
+  "id": "2803",
+  "name": "Rod Cutting Problem | (DP - 24)",
+  "difficulty": "Hard",
+  "step": "Dynamic Programming [Patterns and Problems]",
+  "substep": "DP on Subsequences",
+  "leetcode": null,
+  "practice": null,
+  "article": "https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/"
+ }
+]
